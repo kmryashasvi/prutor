@@ -1,3 +1,6 @@
+# File I-O - Write
+## LAB5
+## PROBLEM STATEMENT
 This program is about the "```eval```" function, and writing to files. The program will read a few lines of input, process it, and create files as described next.
 The first line of input is a string. This will be used to name the TWO  files that you have to create. If the input is, say ```uvwx```, the two files to be created are ```uwwxA.txt``` and ```uvwxB.txt```. 
 <br>
